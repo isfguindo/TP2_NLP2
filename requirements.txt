@@ -1,0 +1,10 @@
+pandas
+tqdm
+torch
+nltk
+transformers
+datasets
+evaluate
+scikit-learn
+rouge_score
+tensorflow
